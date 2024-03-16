@@ -1,0 +1,25 @@
+const country = {
+    "_id": "1",
+    "country": "Czech Republic",
+    "description": "The Czech Republic, located in the heart of Europe, is a captivating tourist destination renowned for its stunning landscapes, rich history, and vibrant culture. Nestled between Germany, Austria, Poland, and Slovakia, the Czech Republic offers visitors a diverse array of experiences, from exploring medieval castles and picturesque towns to indulging in world-class cuisine and enjoying the lively atmosphere of its cities.",
+    "imageUrl": "http://res.cloudinary.com/dpfu0vwqa/image/upload/v1708956072/czechpic_aflusk.jpg",
+    "popular": [
+        {
+            "_id": "2",
+            "title": "Prague Castle",
+            "imageUrl": "http://res.cloudinary.com/dpfu0vwqa/image/upload/v1708956072/czechpic_aflusk.jpg",
+            "rating": 4.7,
+            "review": "1234 Reviews",
+            "location": "Prague, Czech Republic"
+        },
+        {
+            "_id": "3",
+            "title": "Charles Bridge",
+            "imageUrl": "http://res.cloudinary.com/dpfu0vwqa/image/upload/v1708956072/czechpic_aflusk.jpg",
+            "rating": 4.8,
+            "review": "1334 Reviews",
+            "location": "Prague, Czech Republic"
+        }
+    ],
+    "region": "Central Europe"
+};

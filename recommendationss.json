@@ -1,0 +1,90 @@
+const recommendations = [
+    {
+        "_id": "1",
+        "country_id": "1",
+        "title": "Statue of Liberty",
+        "imageUrl": "",
+        "rating": 4.7,
+        "review": "1234 Reviews"
+    },
+    {
+        "_id": "2",
+        "country_id": "2",
+        "title": "Grand of Beauty",
+        "imageUrl": "",
+        "rating": 4.8,
+        "review": "1454 Reviews"
+    },
+    {
+        "_id": "3",
+        "country_id": "3",
+        "title": "Land of Islanders",
+        "imageUrl": "",
+        "rating": 4.6,
+        "review": "1554 Reviews"
+    },
+    {
+        "_id": "4",
+        "country_id": "4",
+        "title": "Mountain Majesty",
+        "imageUrl": "",
+        "rating": 4.9,
+        "review": "1654 Reviews"
+    },
+    {
+        "_id": "5",
+        "country_id": "5",
+        "title": "City of Lights",
+        "imageUrl": "",
+        "rating": 4.5,
+        "review": "1354 Reviews"
+    },
+    {
+        "_id": "6",
+        "country_id": "6",
+        "title": "Sunny Shores",
+        "imageUrl": "",
+        "rating": 4.6,
+        "review": "1444 Reviews"
+    },
+    {
+        "_id": "7",
+        "country_id": "7",
+        "title": "Cultural Capital",
+        "imageUrl": "",
+        "rating": 4.7,
+        "review": "1674 Reviews"
+    },
+    {
+        "_id": "8",
+        "country_id": "8",
+        "title": "Garden Paradise",
+        "imageUrl": "",
+        "rating": 4.8,
+        "review": "1784 Reviews"
+    },
+    {
+        "_id": "9",
+        "country_id": "9",
+        "title": "Historic Haven",
+        "imageUrl": "",
+        "rating": 4.7,
+        "review": "1564 Reviews"
+    },
+    {
+        "_id": "10",
+        "country_id": "10",
+        "title": "Praise Paradise",
+        "imageUrl": "",
+        "rating": 4.8,
+        "review": "1404 Reviews"
+    },
+    {
+        "_id": "11",
+        "country_id": "11",
+        "title": "Historic Haven City",
+        "imageUrl": "",
+        "rating": 4.3,
+        "review": "1564 Reviews"
+    }
+];

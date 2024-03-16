@@ -1,0 +1,66 @@
+const hotel = {
+    "availability": {
+      "start": "2024-08-20T00:00:00.000Z",
+      "end": "2024-08-25T00:00:00.000Z",
+    },
+"coordinates": {
+    "latitude": 40.689247,
+    "longitude": -70.689257,
+},
+
+
+    "_id": "1",
+    "country_id": "1",
+    "title": "Prague Castle",
+    "description":
+      "The Czech Republic, located in the heart of Europe, is a captivating tourist destination renowned for its stunning landscapes, rich history, and vibrant culture. Nestled between Germany, Austria, Poland, and Slovakia, the Czech Republic offers visitors a diverse array of experiences, from exploring medieval castles and picturesque towns to indulging in world-class cuisine and enjoying the lively atmosphere of its cities.",
+    "contact": "1",
+    "imageUrl":
+      "http://res.cloudinary.com/dpfu0vwqa/image/upload/v1708956072/czechpic_aflusk.jpg",
+    "rating": 4.7,
+    "review": "1234 Reviews",
+    "location": "Czech Republic",
+    "price": 400,
+   "_v": 1,
+   "reviews": [
+         {
+"_id": "1",
+"review": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+"rating": 4.7,
+"user": {
+    "_id": "1",
+    "username": "Denish Slakish",
+    "profile": "http://res.cloudinary.com/dpfu0vwqa/image/upload/v1708956053/germanyCity_bywcxj.jpg"
+},
+"updatedAt": "2024-08-09T13:09:09.200z",
+
+         },
+
+         {
+            "_id": "1",
+            "review": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+            "rating": 4.7,
+            "user": {
+                "_id": "1",
+                "username": "Tala Lorman",
+                "profile": "http://res.cloudinary.com/dpfu0vwqa/image/upload/v1708956053/germanyCity_bywcxj.jpg"
+            },
+            "updatedAt": "2024-08-09T13:09:09.200z",
+            
+                     },
+                     {
+                        "_id": "1",
+                        "review": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                        "rating": 4.7,
+                        "user": {
+                            "_id": "1",
+                            "username": "Melin Rabish",
+                            "profile": "http://res.cloudinary.com/dpfu0vwqa/image/upload/v1708956053/germanyCity_bywcxj.jpg"
+                        },
+                        "updatedAt": "2024-08-09T13:09:09.200z",
+                        
+                                 },
+
+
+   ]
+  };
